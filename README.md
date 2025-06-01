@@ -11,7 +11,8 @@ I designed a **Cash Flow Dashboard** with interactive elements for better financ
 - **Filters & Bookmarks** (Interactive slicers for dates and cost centers)
 
 🔗 **Dashboard Link:** [(https://app.powerbi.com/view?r=eyJrIjoiZDY5YmNkOTEtNTcwOS00YzY2LTk1OTItNjhhZjEwYzZiZmRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]  
-🖼️ **Preview:** ![Dashboard Screenshot](Insert your image URL here)
+🖼️ **Preview:** ![Dashboard Screenshot](![Cash Flow Analysis by Debora Klein - Power BI - Google Chrome 31_05_2025 22_49_13](https://github.com/user-attachments/assets/dd0b1fee-77e3-4e1c-b8cb-de5c196aa418)
+)
 
 ## 🚀 Connect with Me
 Feel free to explore my projects and reach out for collaboration!
