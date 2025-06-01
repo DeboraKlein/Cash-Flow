@@ -10,6 +10,8 @@ I designed a **Cash Flow Dashboard** with interactive elements for better financ
 - **Monthly Trends** (Waterfall chart showing balance evolution)
 - **Filters & Bookmarks** (Interactive slicers for dates and cost centers)
 
+  > **Note:** This dashboard is built with **fictitious information** and does not represent a real company.
+
 🔗 **Dashboard Link:** [(https://app.powerbi.com/view?r=eyJrIjoiZDY5YmNkOTEtNTcwOS00YzY2LTk1OTItNjhhZjEwYzZiZmRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]  
 🖼️ **Preview:** ![Dashboard Screenshot](![Cash Flow Analysis by Debora Klein - Power BI - Google Chrome 31_05_2025 22_49_13](https://github.com/user-attachments/assets/dd0b1fee-77e3-4e1c-b8cb-de5c196aa418)
 )
@@ -18,3 +20,5 @@ I designed a **Cash Flow Dashboard** with interactive elements for better financ
 Feel free to explore my projects and reach out for collaboration!
 
 Thanks for visiting! 😊
+
+
