@@ -10,7 +10,7 @@ I designed a **Cash Flow Dashboard** with interactive elements for better financ
 - **Monthly Trends** (Waterfall chart showing balance evolution)
 - **Filters & Bookmarks** (Interactive slicers for dates and cost centers)
 
-🔗 **Dashboard Link:** [[Insert your dashboard URL here](https://app.powerbi.com/view?r=eyJrIjoiZDY5YmNkOTEtNTcwOS00YzY2LTk1OTItNjhhZjEwYzZiZmRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]  
+🔗 **Dashboard Link:** [(https://app.powerbi.com/view?r=eyJrIjoiZDY5YmNkOTEtNTcwOS00YzY2LTk1OTItNjhhZjEwYzZiZmRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]  
 🖼️ **Preview:** ![Dashboard Screenshot](Insert your image URL here)
 
 ## 🚀 Connect with Me
